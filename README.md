@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @siddhjaiin
-- 👀 I’m interested in Data sciencce
+- 👀 I’m interested in A.I.
 - 🌱 I’m currently learning M.L.
 - 📫 How to reach me Siddhjain774@gmail.com
 
